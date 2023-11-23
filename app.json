@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e9dd7d9d-c960-42ad-8a2d-a14fbcd1cf01"
+      }
+    },
+    "owner": "szivaknorbert"
   }
 }
